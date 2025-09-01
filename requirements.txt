@@ -1,13 +1,12 @@
 streamlit==1.36.0
 
-# HF stack (compatible with Py 3.12)
+# HF stack (works on Py 3.12 + CPU)
 transformers==4.44.2
 tokenizers==0.19.1
 sentencepiece==0.2.1
-torch==2.8.0   # CPU wheel exists; or just "torch" to let pip choose
+torch==2.8.0    # CPU wheel available; or just `torch`
 
 # app deps
 pydantic==2.8.2
 pandas==2.2.2
 python-docx==1.1.2
-
