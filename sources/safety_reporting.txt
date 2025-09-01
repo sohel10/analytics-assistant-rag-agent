@@ -1,0 +1,46 @@
+# sources/safety_reporting.txt
+TITLE: Safety Reporting (AE/SAE/SUSAR) – Illustrative Guidance
+
+DEFINITIONS
+- AE: Any untoward medical occurrence after IP administration, not necessarily causally related.
+- SAE: Results in death, life-threatening event, inpatient hospitalization or prolongation, persistent/significant disability, congenital anomaly, or other medically important condition.
+- SUSAR: Suspected Unexpected Serious Adverse Reaction (serious + unexpected + related).
+
+REPORTING TIMELINES
+- All AEs: Record in source/EDC at each visit (onset, severity, outcome, relatedness).
+- SAEs (including deaths): Report to Sponsor Safety within 24 hours of awareness.
+- SUSAR (Expedited to authorities/IRB by Sponsor):
+  • Fatal/Life-threatening: within 7 calendar days (with 8-day follow-up).
+  • Other SAEs meeting SUSAR: within 15 calendar days.
+
+MINIMUM INITIAL SAE INFORMATION
+- Participant ID, initials (per privacy policy), sex, DOB/age
+- Event term/diagnosis, onset date/time, seriousness criteria, outcome (if known)
+- Suspect IP (dose, route, start/stop), last administration
+- ConMeds and relevant medical history
+- Investigator causality assessment (related / not related)
+- Reporter name, site, contact details
+
+FOLLOW-UP INFORMATION
+- Provide updates as new info is available (labs, imaging, outcome, narratives).
+- Maintain chronology and corrective actions taken.
+
+CAUSALITY & SEVERITY
+- Causality: PI assessment (not related / possibly / probably / definitely related).
+- Severity: Grade per CTCAE v5.0 (mild, moderate, severe, life-threatening, death).
+
+PREGNANCY EXPOSURE
+- Report pregnancy exposures to IP within 24 hours of awareness.
+- Discontinue IP if required by protocol; follow mother/fetus to outcome.
+
+UNBLINDING
+- Only if medically necessary for treatment of the participant.
+- Follow protocol/Sponsor procedure; document justification, date/time, persons involved.
+
+CONTACTS (PLACEHOLDERS – EDIT)
+- Sponsor Safety Email: safety@example-sponsor.com
+- 24/7 Phone: +1-555-0100
+- Fax (if used): +1-555-0101
+
+KEYWORDS
+AE, SAE, SUSAR, CTCAE v5, expedited reporting, 24 hours, 7-day, 15-day, causality, severity, unblinding, pregnancy exposure
