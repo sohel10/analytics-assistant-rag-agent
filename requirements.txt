@@ -1,0 +1,8 @@
+# Streamlit app deps (versions chosen to work on Streamlit Cloud / Python 3.13)
+streamlit>=1.36,<1.45
+transformers==4.48.0
+tokenizers==0.20.1
+torch==2.4.0
+sentencepiece==0.2.1
+pandas==2.2.2
+python-docx==1.1.2
