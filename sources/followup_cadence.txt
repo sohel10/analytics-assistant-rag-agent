@@ -1,1 +1,8 @@
-Routine follow-up every 3 months or per PI discretion. Encourage BP logs for hypertension.
+Routine follow-up every ~3 months, or per PI discretion.
+• If on active treatment: consider q4w (every 4 weeks) safety checks.
+• Missed/out-of-window visits: reschedule at earliest feasible date; document deviation and rationale in source/EDC.
+• Remote options (if permitted by protocol): phone/televisit AE review; local/at-home safety labs.
+• Always assess: vitals (if available), ConMeds update, AE/SAE since last contact, adherence.
+• Next due date ≈ prior in-person visit date + 28 days (if on q4w cadence), respecting allowed window.
+• This file is illustrative only—replace with study-specific cadence.
+KEYWORDS: follow-up, cadence, window, reschedule, remote, televisit
